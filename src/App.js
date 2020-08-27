@@ -7,8 +7,8 @@ const App = function () {
     <div className="app">
       <header>Tik-Tak-Toe</header>
       <Game
-        player1={{name: 'rashmi', symbol: 'X'}}
-        player2={{name: 'riya', symbol: 'O'}}
+        player1={{name: 'Player1', symbol: 'X'}}
+        player2={{name: 'Player2', symbol: 'O'}}
       />
     </div>
   );
