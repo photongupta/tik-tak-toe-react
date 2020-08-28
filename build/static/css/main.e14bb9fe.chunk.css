@@ -1,0 +1,2 @@
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}code{font-family:source-code-pro,Menlo,Monaco,Consolas,"Courier New",monospace}.app{text-align:center}.tile{width:50px;height:50px;border:1px solid #000}.gameBoard{margin:0 auto 25px;display:flex;flex-wrap:wrap;width:150px}.disable{opacity:.5}.disable,.tile:disabled{pointer-events:none}
+/*# sourceMappingURL=main.e14bb9fe.chunk.css.map */
