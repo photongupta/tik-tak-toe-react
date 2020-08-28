@@ -9,7 +9,7 @@
 }
 
 .gameBoard{
-  margin-left: 335px;
+  margin-left: 45%;
   margin-bottom: 25px;
   display: flex;
   flex-wrap: wrap;
